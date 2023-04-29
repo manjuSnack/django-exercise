@@ -122,7 +122,7 @@ Do you confirm generation? yes
 : 점 . 을 추가해 폴더를 추가할 것!
 
 
-#2 OOP WITH PYTHON, #2.0~2.4 #Introduction / __init__ / 
+#2 OOP WITH PYTHON, #2.0~2.4 #Introduction / __init__ / Inheritance
 
 # OOP ( Object-Oriented Programing )
 
