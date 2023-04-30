@@ -22,6 +22,7 @@ class Fan(Human):
 manju_player = Player("manju", 10)
 manju_player.say_hello()
 milk_player = Fan("milk", "dontknow")
+# milk_player = Fan.__init__("milk", "dontknow") # 위에 명령어와 같은 의미이다.
 milk_player.say_hello()
 
 # Inheritance
