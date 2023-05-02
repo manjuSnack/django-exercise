@@ -122,7 +122,7 @@ Do you confirm generation? yes
 : 점 . 을 추가해 폴더를 추가할 것!
 
 
-#2 OOP WITH PYTHON, #2.0~2.4 #Introduction / __init__ / Inheritance / super( )
+#2 OOP WITH PYTHON, #2.0~2.4 #Introduction / __init__ / Inheritance / super( ) / Recap / dir( )
 
 # OOP ( Object-Oriented Programing )
 
@@ -144,7 +144,6 @@ Clojure, Scala
 : 대표적으로 CSS가 이에 해당 된다. 원하는 '결과값'을 선언하는 것. JavaScript에서는 .replaceAll( ), .filter( )와 같은 함수를 일컫는다.
 대부분 선언형 코드의 내부에는 명령형 코드로 작성되어 있다.
 
-# super( )
 
 ---
 
