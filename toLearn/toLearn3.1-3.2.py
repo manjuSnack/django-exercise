@@ -1,4 +1,4 @@
-#3.1 Migrations
+#3.1~3.2 Migrations, Recap
 
 # Run Server
 # Terminal -- poetry shell 
@@ -17,7 +17,7 @@
 # : django server의 admin에 접근할 수 있다. 
 
 # migrations
-# : database의 state를 수정하는 것을 일컫는다.
+# : database의 state를 수정하는 파이썬 코드이다.
 
 # Terminal -- python manage.py migrate
 # : 필요한 migration을 db.sqlite3에 추가한다.

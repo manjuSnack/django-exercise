@@ -144,6 +144,11 @@ Clojure, Scala
 : 대표적으로 CSS가 이에 해당 된다. 원하는 '결과값'을 선언하는 것. JavaScript에서는 .replaceAll( ), .filter( )와 같은 함수를 일컫는다.
 대부분 선언형 코드의 내부에는 명령형 코드로 작성되어 있다.
 
+#3 DJANGO BASIC. #3.0~3.5 Run Server, Migrations, Recap, Super User, Framwork vs Library, Apps
+
+# 4 DJANGO APPS / #4.0 Models
+
+#3.2~4.0 복습할 것
 
 ---
 
